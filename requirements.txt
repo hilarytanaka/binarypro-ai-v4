@@ -5,3 +5,4 @@ uvicorn
 pandas
 fastapi
 joblib
+BinaryOptionsToolsV2==0.2.15
